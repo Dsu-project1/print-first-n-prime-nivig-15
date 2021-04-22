@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "first n prime",
+      "setup": "",
+      "run": "run.c",
+      "input": "5",
+      "output": "2 3 5 7 11 ",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
